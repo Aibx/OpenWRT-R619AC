@@ -22,7 +22,7 @@
 - 因netgearv2主题手机页面存在错误，退回netgearV1主题
 
 ## 联动仓库
-- [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)
-- [Lean's OpenWrt](https://github.com/Aibx/Lean-OpenWrt)
-- [Lienol's OpenWrt](https://github.com/Aibx/Lienol-OpenWrt)
+- [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
+- [Lean's OpenWrt](https://github.com/Aibx/Lean-OpenWrt)：Lean的OpenWRT源码仓库，每日自动合并上流推送
+- [Lienol's OpenWrt](https://github.com/Aibx/Lienol-OpenWrt)：Lienol的OpenWRT源码仓库，每日自动合并上流推送
 
