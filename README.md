@@ -23,12 +23,8 @@
 ### V1.1
 - 因netgearv2主题手机页面存在错误，退回netgearV1主题
 
+## 联动仓库
+- [OpenWrt](https://github.com/Aibx/OpenWRT-Packages)
+- [Lean's OpenWrt](https://github.com/Aibx/Lean-OpenWrt)
+- [Lienol's OpenWrt](https://github.com/Aibx/Lienol-OpenWrt)
 
-## 致谢
-- [OpenWrt](https://github.com/openwrt/openwrt)
-- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
-- [Lienol's OpenWrt](https://github.com/Lienol/openwrt)
-- [P3TERX's Action](https://github.com/P3TERX/Actions-OpenWrt)
-- [Cowtransfer](https://cowtransfer.com)
-- [WeTransfer](https://wetransfer.com/)
-- [Mikubill/transfer](https://github.com/Mikubill/transfer)
