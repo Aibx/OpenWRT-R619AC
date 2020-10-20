@@ -9,7 +9,7 @@
 - 内含精选Vssr、SSRPlus、Passwall、京东签到、Clash、Adguard、去广告、迅雷快鸟等绝大多数常用插件，包含仓库内基本全部的主题
 - 每日跟随仓库软件编译，如果最新版本不含bin等文件即编译失败，请去Releases内火Releases寻找旧版下载
 - 下载地址：https://github.com/Whitestorys/Actions-OpenWrt/releases/latest
-- 内含Cowtransfer以及WeTransfer下载连接，文件保存七天，下载速度快，建议优先选择
+- 内含Cowtransfer以及WeTransfer下载连接，连接有效时长为七天
 
 > 如需IPK文件请前往Action内下载文件名为OpenWrt_bin_p2w_r619ac-128m的文件，内含IPK等文件
 
