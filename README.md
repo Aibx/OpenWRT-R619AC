@@ -11,6 +11,9 @@
 - 下载地址：https://github.com/Whitestorys/Actions-OpenWrt/releases/latest
 - 内含Cowtransfer以及WeTransfer下载连接，文件保存七天，下载速度快，建议优先选择
 
+> 如需IPK文件请前往Action内下载文件名为OpenWrt_bin_p2w_r619ac-128m的文件，内含IPK等文件
+
+> https://github.com/Aibx/OpenWRT-R619AC/actions
 ## 更新记录
 
 ### V1.0
