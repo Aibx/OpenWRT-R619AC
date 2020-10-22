@@ -13,7 +13,7 @@
 - 如果最新版本不含bin等文件即编译失败，请前往[Releases](https://github.com/Aibx/OpenWRT-R619AC/releases)或[Actions](https://github.com/Aibx/OpenWRT-R619AC/actions)寻找旧版
 - Releases仅保留最新14份编译内容,Actions则保留一月内全部的编译内容,Cowtransfer及WeTransfer下载链接有效时长为7天
 
-> 如需IPK文件请前往[Actions](https://github.com/Aibx/OpenWRT-R619AC/actions)内下载文件名含OpenWrt_bin_p2w_r619ac-128m的文件，包含IPK在内的全部编译文件
+> 如需IPK文件请前往[Actions](https://github.com/Aibx/OpenWRT-R619AC/actions)内下载文件名含"OpenWrt_bin_p2w_r619ac-128m"的文件
 
 ## 更新记录
 
