@@ -179,11 +179,11 @@ jobs:
         body_path: release.txt
         files: ${{ env.FIRMWARE }}/*
 
-    - name: Remove old Artifacts
-      uses: c-hive/gha-remove-artifacts@v1.2.0
+    - name: Remove old Workflow
+      uses: ActionsRML/delete-workflow-runs@main
       with:
-        age: '1 month'
-        skip-recent: 3
+        retain_days: 30
+        keep_minimum_runs: 3
 
     - name: Remove old Releases
       uses: dev-drprasad/delete-older-releases@v0.1.0
