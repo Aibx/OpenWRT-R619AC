@@ -11,7 +11,7 @@
 - 本项目为竞斗云固件自动编译脚本，每日0:30 UTC(北京时间8:30)和12:30 UTC(北京时间20:30)自动编译，预计3小时完成编译工作
 - 内含精选Vssr、SSRPlus、Passwall、京东签到、Clash、Adguard、去广告、迅雷快鸟等绝大多数常用插件，包含仓库内基本全部的主题，每日跟随仓库软件编译
 - 如果最新版本不含bin等文件即编译失败，请前往[Releases](https://github.com/Aibx/OpenWRT-R619AC/releases)或[Actions](https://github.com/Aibx/OpenWRT-R619AC/actions)寻找旧版
-- Releases仅保留最新14份编译内容,Actions则保留一月内全部的编译内容,Cowtransfer及WeTransfer下载链接有效时长为7天
+- Releases仅保留最新14份编译内容,Actions则保留30天内全部的编译内容,Cowtransfer及WeTransfer下载链接有效时长为7天
 
 > 如需IPK文件请前往[Actions](https://github.com/Aibx/OpenWRT-R619AC/actions)内下载文件名含"OpenWrt_bin_p2w_r619ac-128m"的文件
 
@@ -22,6 +22,9 @@
 
 ### V1.1
 - 因netgearv2主题手机页面存在错误，退回netgearV1主题
+
+### V1.2
+- 修复上游软件包变更导致的编译错误问题,自动删除无用Action
 
 ## 联动仓库
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
