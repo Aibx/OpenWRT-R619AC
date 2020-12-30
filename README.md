@@ -27,7 +27,7 @@
 - 修复上游软件包变更导致的编译错误问题,自动删除无用Action
 
 ### V1.3
-- 修复上游编译环境导致的错误，修改Vssrplus为Vssr
+- 修复上游编译环境导致的错误，去除VSSR-PLUS，改为VSSR
 
 ## 联动仓库
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
