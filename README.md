@@ -26,6 +26,9 @@
 ### V1.2
 - 修复上游软件包变更导致的编译错误问题,自动删除无用Action
 
+### V1.3
+- 修复上游编译环境导致的错误，修改Vssrplus为Vssr
+
 ## 联动仓库
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
 - [Lean's OpenWrt](https://github.com/Aibx/Lean-OpenWrt)：Lean的OpenWRT源码仓库，每日自动合并上流推送
