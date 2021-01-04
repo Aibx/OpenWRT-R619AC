@@ -33,7 +33,7 @@
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
 
 ## 致谢
-- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)：使用GitHub Actions云编译OpenWrt
-- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)：Lean的OpenWRT源码仓库，每日自动合并上流推送
-- [Lienol's OpenWrt](https://github.com/Lienol/openwrt)：Lienol的OpenWRT源码仓库，每日自动合并上流推送
-- [Liuran001](https://github.com/liuran001)：软件仓库自动更新脚本作者
+- [Liuran001](https://github.com/liuran001)：OpenWRT常用软件自动更新脚本作者
+- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)：GitHub Actions云编译OpenWrt脚本
+- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)：Lean的OpenWRT源码仓库
+- [Lienol's OpenWrt](https://github.com/Lienol/openwrt)：Lienol的OpenWRT源码仓库
