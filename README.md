@@ -29,6 +29,9 @@
 ### V1.3
 - 修复上游编译环境导致的错误，去除VSSR-PLUS，改为VSSR
 
+### V1.4
+- 变更编译触发方式为软件仓库更新，修复编译流程中Workflow相关仓库丢失问题
+
 ## 联动仓库
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
 
