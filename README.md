@@ -36,4 +36,4 @@
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)：使用GitHub Actions云编译OpenWrt
 - [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)：Lean的OpenWRT源码仓库，每日自动合并上流推送
 - [Lienol's OpenWrt](https://github.com/Lienol/openwrt)：Lienol的OpenWRT源码仓库，每日自动合并上流推送
-- [openwrt-packages](https://github.com/liuran001/openwrt-packages)：国内常用OpenWrt软件包源码合集，每天自动更新
+- [Liuran001](https://github.com/liuran001)
