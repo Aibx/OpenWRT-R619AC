@@ -31,6 +31,9 @@
 
 ## 联动仓库
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
-- [Lean's OpenWrt](https://github.com/Aibx/Lean-OpenWrt)：Lean的OpenWRT源码仓库，每日自动合并上流推送
-- [Lienol's OpenWrt](https://github.com/Aibx/Lienol-OpenWrt)：Lienol的OpenWRT源码仓库，每日自动合并上流推送
 
+## 致谢
+- [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
+- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+- [Lienol's OpenWrt](https://github.com/Lienol/openwrt)
+- [openwrt-packages](https://github.com/liuran001/openwrt-packages)
