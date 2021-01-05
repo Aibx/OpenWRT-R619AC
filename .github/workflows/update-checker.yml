@@ -52,7 +52,7 @@ jobs:
         event-type: Build OpenWrt
 
     - name: Delete workflow runs
-      uses: Aibx/Delete-Workflow-Runs@main
+      uses: GitRML/delete-workflow-runs@main
       with:
-        retain_days: 1
+        retain_days: 30
         keep_minimum_runs: 1
