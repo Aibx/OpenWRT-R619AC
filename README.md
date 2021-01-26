@@ -32,6 +32,9 @@
 ### V1.4
 - 变更编译触发方式为软件仓库更新，修复编译流程中Workflow相关仓库丢失问题
 
+### V1.5
+- 应用过滤因上游变动导致编译失误，已临时去除(现已修复，重新加回)
+
 ## 联动仓库
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
 
