@@ -14,7 +14,8 @@
 - Releases仅保留最新14份编译内容,Actions则保留30天内全部的编译内容,Cowtransfer及WeTransfer下载链接有效时长为7天
 
 > 如需IPK文件请前往[Actions](https://github.com/Aibx/OpenWRT-R619AC/actions?query=workflow%3A%22Build+OpenWrt%22)内下载文件名含"OpenWrt_bin_p2w_r619ac-128m"的文件
->成品固件推荐:[蓝奏云](https://pan.lanzous.com/b0ewj3o6j)密码:1zwn
+
+> 成品固件推荐:[下载](https://pan.lanzous.com/b0ewj3o6j)密码:1zwn
 
 ## 更新记录
 
