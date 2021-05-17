@@ -17,7 +17,7 @@
 
 > 如需IPK文件请前往[Actions](https://github.com/Aibx/OpenWRT-R619AC/actions?query=workflow%3A%22Build+OpenWrt%22)内下载文件名含"OpenWrt_bin_p2w_r619ac-128m"的文件
 
-> 成品固件推荐:[蓝奏云](https://pan.lanzoux.com/b0ewj3o6j)|密码:1zwn（最新版本已去除SS非AEAD支持，如需使用请下载连接内旧版使用）
+> 成品固件推荐:[蓝奏云](https://pan.lanzoux.com/b0ewj3o6j)|密码:1zwn（最新版本SSP已去除SS非AEAD支持，如需使用请下载连接内旧版或Passwall等）
 
 ## 更新记录
 
