@@ -8,6 +8,8 @@
 
 > 自动编译固件可能存在各种问题，如发现请前往各自软件仓库处询问并等待更新或下载旧版进行降级操作
 
+> 默认网关：192.168.3.1 默认主题：argon 默认密码：8FLAkHBPj9*yCy
+
 [![GitHub Action (latest by date)](https://img.shields.io/github/workflow/status/Aibx/OpenWRT-R619AC/Build%20OpenWrt?style=for-the-badge&logo=appveyor&label=Build%20Status)](https://github.com/Aibx/OpenWRT-R619AC/actions)
 [![GitHub Release (latest by date)](https://img.shields.io/github/v/release/Aibx/OpenWRT-R619AC?style=for-the-badge&label=Download)](https://github.com/Aibx/OpenWRT-R619AC/releases/latest)
 - 本项目为竞斗云固件自动编译脚本，每日0:30 UTC(北京时间8:30)和12:30 UTC(北京时间20:30)自动编译，预计3小时完成编译工作
