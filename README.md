@@ -39,7 +39,6 @@
 Passwall全家桶回归  
 
 ## 联动仓库
-
 - [OpenWRT-Packages](https://github.com/Aibx/OpenWRT-Packages)：国内常用OpenWRT软件包集合
 - [OpenWRT-S905D](https://github.com/Aibx/OpenWRT-S905D)：斐讯N1自动编译仓库
 
